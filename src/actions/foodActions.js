@@ -13,7 +13,7 @@ import axios from 'axios'
 export function fetchFoodDetail(no) {
     return function(dispatch){
         // dispatch=> 함수
-        axios.get('http://localhost:3355', {
+        axios.get('http://localhost:3355/food_detail', {
             params:{
                 no:no
             }

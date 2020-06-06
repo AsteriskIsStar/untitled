@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c2497e-a84a-4fe0-8562-0cd0c7da3d2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food-server.js" beforeDir="false" afterPath="$PROJECT_DIR$/food-server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/foodActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/foodActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CateFood.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CateFood.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FoodDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FoodDetail.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +80,30 @@
       <option name="presentableId" value="Default" />
       <updated>1591405629742</updated>
       <workItem from="1591405631440" duration="15288000" />
-      <workItem from="1591424277963" duration="132000" />
+      <workItem from="1591424277963" duration="1886000" />
     </task>
+    <task id="LOCAL-00001" summary="e">
+      <created>1591424457994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591424457994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="579" y="109" key="CommitChangelistDialog2" timestamp="1591424456793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591424456793" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1591424275379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,6 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591406324433" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591424460661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591424460661" />
     <state x="365" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1591421853766">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
